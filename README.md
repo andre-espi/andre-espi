@@ -1,16 +1,16 @@
-## Hi there 👋
+Hola, soy Andrea Espinoza 👋
+Estudiante de Ingeniería en Informática (6to Semestre) | Aspirante a Desarrollador
 
-<!--
-**andre-espi/andre-espi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una apasionada de la tecnología en busca de mi primera oportunidad profesional. Mi enfoque principal es crear soluciones eficientes, optimizar procesos y diseñar interfaces de usuario intuitivas. Mi experiencia previa en atención al cliente me ha dotado de una comunicación efectiva y un enfoque centrado en el usuario.
 
-Here are some ideas to get you started:
+🔭 Actualmente: Profundizando en el mundo del Backend con Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack: Java, C#, Python, SQL Server.
+
+🌐 Frontend: HTML & CSS.
+
+🎮 Intereses: Desarrollo de videojuegos y aplicaciones móviles.
+
+📫 Contacto: 
+    www.linkedin.com/in/andrea-carolina-espinoza-uzcategui-ti 
+    andreaceu1@gamil.com
