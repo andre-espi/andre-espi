@@ -12,5 +12,5 @@ Soy una apasionada de la tecnología en busca de mi primera oportunidad profesio
 🎮 Intereses: Desarrollo de videojuegos y aplicaciones móviles.
 
 📫 Contacto: 
-    www.linkedin.com/in/andrea-carolina-espinoza-uzcategui-ti 
+    www.linkedin.com/in/andrea-carolina-espinoza-uzcategui-ti |
     andreaceu1@gamil.com
