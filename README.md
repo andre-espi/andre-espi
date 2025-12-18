@@ -15,7 +15,6 @@ Mi experiencia previa en **atención al cliente y cobranza** me ha dotado de hab
 ### 🛠️ Tech Stack
 
  Categoría  Tecnologías 
- :---  :--- 
 * **Lenguajes:**  Java, C#, Python, JavaScript 
 * **Frontend:**  HTML5, CSS3, JS 
 * **Backend:**  Lógica en Java/C#, Gestión de Docker 
