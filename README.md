@@ -17,7 +17,7 @@ Mi experiencia previa en **atención al cliente y cobranza** me ha dotado de hab
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Lenguajes** | Java, C#, Python, JavaScript |
-| **Frontend** | HTML5, CSS3, JS (Interfases de usuario) |
+| **Frontend** | HTML5, CSS3, JS |
 | **Backend** | Lógica en Java/C#, Gestión de Docker |
 | **Bases de Datos** | SQL Server |
 | **Herramientas** | IntelliJ IDEA, VS Code, Android Studio, Unity |
