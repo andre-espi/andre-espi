@@ -1,16 +1,30 @@
-Hola, soy Andrea Espinoza 👋
-Estudiante de Ingeniería en Informática (6to Semestre) | Aspirante a Desarrollador
+# Hola, soy Andrea Espinoza 👋
 
-Soy una apasionada de la tecnología en busca de mi primera oportunidad profesional. Mi enfoque principal es crear soluciones eficientes, optimizar procesos y diseñar interfaces de usuario intuitivas. Mi experiencia previa en atención al cliente me ha dotado de una comunicación efectiva y un enfoque centrado en el usuario.
+### 🎓 Estudiante de Ingeniería en Informática (6to Semestre) | Junior Developer
 
-🔭 Actualmente: Profundizando en el mundo del Backend con Docker.
+Soy una apasionada de la tecnología en busca de mi primera oportunidad profesional. Mi enfoque principal es crear soluciones eficientes, optimizar procesos y diseñar interfaces de usuario intuitivas. 
 
-🛠️ Tech Stack: Java, C#, Python, SQL Server.
+Mi experiencia previa en **atención al cliente y cobranza** me ha dotado de habilidades clave como la comunicación efectiva, negociación y un fuerte enfoque centrado en las necesidades del usuario final.
 
-🌐 Frontend: HTML & CSS.
+---
 
-🎮 Intereses: Desarrollo de videojuegos y aplicaciones móviles.
+### 🔭 Mi Enfoque Actual
+* **Aprendiendo:** Profundizando en el mundo del Backend con **Docker** 🐳 para mejorar el despliegue de mis aplicaciones.
+* **Intereses:** Desarrollo de videojuegos (Unity), apps móviles y arquitectura de software.
 
-📫 Contacto: 
-    www.linkedin.com/in/andrea-carolina-espinoza-uzcategui-ti |
-    andreaceu1@gamil.com
+### 🛠️ Tech Stack
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | Java, C#, Python, JavaScript |
+| **Frontend** | HTML5, CSS3, JS (Interfases de usuario) |
+| **Backend** | Lógica en Java/C#, Gestión de Docker |
+| **Bases de Datos** | SQL Server |
+| **Herramientas** | IntelliJ IDEA, VS Code, Android Studio, Unity |
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** [Andrea Carolina Espinoza Uzcategui](https://www.linkedin.com/in/andrea-carolina-espinoza-uzcategui-ti) 💼
+* **Email:** [andreaceu1@gmail.com](mailto:andreaceu1@gmail.com) 📧
