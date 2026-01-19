@@ -1,6 +1,6 @@
 # Hola, soy Andrea Espinoza 👋
 
-### 🎓 Estudiante de Ingeniería en Informática (6to Semestre) | Junior Developer
+### 🎓 Estudiante de Ingeniería en Informática (7mo Semestre) | Junior Developer
 
 Soy una apasionada de la tecnología en busca de mi primera oportunidad profesional. Mi enfoque principal es crear soluciones eficientes, optimizar procesos y diseñar interfaces de usuario intuitivas. 
 
